@@ -1,13 +1,20 @@
 # 📊 Igor Mendes
 
-**`Analista de Dados`**
+**`Analista de Dados`** &nbsp;·&nbsp; SQL · Python · Power BI · ETL · Power Platform
 
-Sou Igor Mendes, tenho 26 anos e sou norte-mineiro. Trabalho com dados há **2 anos**, com experiência em **ETL** (extração, transformação e carga) e em **visualização de dados com storytelling**. Atualmente estagio no setor de **Controle de Qualidade da Novo Nordisk**, onde transformo dados de processo em informações que apoiam a tomada de decisão.
+Sou Igor Mendes, norte-mineiro, e trabalho com dados há cerca de **2 anos**, com experiência em **ETL** e em **visualização de dados com storytelling**. Hoje estagio no **Controle de Qualidade Microbiológico da Novo Nordisk**, onde levo dados do SAP e de sistemas de laboratório até dashboards, aplicativos e automações usados no dia a dia da operação.
 
-Sou **Engenheiro Químico** e **Bacharel em Ciência e Tecnologia** pela UFVJM, uma formação que me dá visão analítica sobre processos. Sigo a filosofia **Kaizen** de melhoria contínua, no trabalho e na vida. Meu próximo passo é a **Ciência de Dados**, com o objetivo de transformar dados em decisões seguras que tornem os processos mais eficientes.
+Sou **Bacharel em Ciência e Tecnologia** e formando em **Engenharia Química** pela UFVJM (conclusão prevista para dez/2026), uma formação que me dá visão analítica sobre processos. Sigo a filosofia **Kaizen** de melhoria contínua e busco crescer em **Análise de Dados**, transformando dados em decisões que tornem os processos mais eficientes.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/igor-mendes-a50550239">
+    <a href="https://ig0rmendes.github.io/portifolio_projetos/">
+        <img
+            alt="Portfólio"
+            title="Veja meu portfólio, currículo e certificados"
+            src="https://img.shields.io/badge/Portfólio-0E9C90?style=for-the-badge&logo=githubpages&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/igor-mendes-a50550239/">
         <img
             alt="LinkedIn"
             title="Conecte-se comigo no LinkedIn"
@@ -21,36 +28,31 @@ Sou **Engenheiro Químico** e **Bacharel em Ciência e Tecnologia** pela UFVJM, 
             src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/igor-mendes-a50550239">
-        <img
-            alt="Aberto a oportunidades"
-            title="Aberto a oportunidades em Dados"
-            src="https://img.shields.io/badge/Aberto_a-Oportunidades-2EA44F?style=for-the-badge"
-        />
-    </a>
 </p>
 
 ---
 
-### 🎯 Áreas de interesse
+### 💼 Resultados na prática
 
-- 📈 Análise de dados e construção de dashboards (BI)
-- ⚙️ Automação de processos e fluxos de trabalho
-- 🔁 Melhoria contínua e controle de qualidade
-- 🧪 Ciência de dados aplicada à indústria
+- **Novo Nordisk:** dashboards de Lead Time e Timeliness que ajudaram a **reduzir em 35% os atrasos de amostras**, e um app em Power Apps que **poupa 40 min/dia** dos técnicos na coleta de água.
+- **Alpargatas:** projeto **Lean Six Sigma Yellow Belt** com dashboard de manutenção em Power BI que **segue em uso pela equipe**.
+- **Pesquisa:** [artigo publicado](https://revistas.uepg.br/index.php/ret/pt_BR/article/view/23889) com um pacote em R que automatiza a validação estatística de métodos analíticos.
 
 ---
 
 ### 🛠️ Ferramentas e Tecnologias
 
 <p align="left">
-    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="SQL Server" title="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" />
     <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" />
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="pandas" title="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img alt="Power BI" title="Power BI e Power Query" src="https://img.shields.io/badge/Power_BI_|_Power_Query-F2C811?style=for-the-badge&logoColor=black" />
     <img alt="Excel" title="Excel e Office Scripts" src="https://img.shields.io/badge/Excel_|_Office_Scripts-217346?style=for-the-badge" />
     <img alt="Power Automate" title="Power Automate" src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
     <img alt="Power Apps" title="Power Apps" src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" />
-    <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="R" title="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+    <img alt="Git" title="Git e GitHub" src="https://img.shields.io/badge/Git_|_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -59,15 +61,19 @@ Sou **Engenheiro Químico** e **Bacharel em Ciência e Tecnologia** pela UFVJM, 
 
 #### 🛵 [Inteligência de Entregas](https://github.com/Ig0rMendes/cury-delivery-analytics)
 
-Painel executivo que mostra **onde o tempo de entrega se perde** em uma operação de delivery e **quantos minutos cada ação pode recuperar**. Analisei mais de 41 mil pedidos: tratei e auditei a base bruta, isolei o efeito de trânsito, clima e distância com regressão e comparei cada entregador dentro do próprio contexto de rota.
+Painel executivo que mostra **onde o tempo de entrega se perde** em uma operação de delivery e **quantos minutos cada ação pode recuperar**. Analisei mais de 41 mil pedidos: tratei e auditei a base bruta, isolei o efeito de trânsito, clima, distância e carga com regressão e comparei cada entregador dentro do próprio contexto de rota.
 
-**Principal resultado:** 30,5% das entregas passam de 30 min, e pedidos com 2 ou mais entregas simultâneas levam 16 min a mais. Essa é a maior alavanca de ganho que está sob gestão direta da empresa.
+**Principais achados:** o trânsito congestionado responde por **53,5% dos atrasos** em 31,7% dos pedidos, e entregas simultâneas somam **+16 min** por pedido.
+
+**Recomendações:** ajustar a roteirização no trânsito pesado (**−2,3 min** na média geral), limitar entregas simultâneas e **não contratar para o pico**, já que a lentidão vem do trânsito, e não da falta de entregadores.
 
 <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    <img alt="Regressão OLS" src="https://img.shields.io/badge/Regressão_OLS-555555?style=flat-square" />
     <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
 </p>
 
@@ -77,12 +83,15 @@ Painel executivo que mostra **onde o tempo de entrega se perde** em uma operaç�
 
 🔗 **[Abrir o painel online](https://cury-delivery-analytics-ghijfz5ndwznvpqbqn6nux.streamlit.app/)** &nbsp;·&nbsp; 📂 **[Ver o código](https://github.com/Ig0rMendes/cury-delivery-analytics)**
 
+<sub>A base pública tem aparência de dados sintéticos: os números demonstram o método, e as recomendações não foram aplicadas em uma operação real.</sub>
+
 <!--
 Modelo para os próximos projetos (copie, preencha e tire do comentário):
 
 #### 📊 [Nome do projeto](https://github.com/Ig0rMendes/nome-do-repositorio)
 O problema, o que você fez e as ferramentas usadas, em uma ou duas frases.
-**Principal resultado:** o insight ou a entrega mais importante, com número se possível.
+**Principais achados:** o insight mais importante, com número se possível.
+**Recomendações:** a ação sugerida ao negócio e o ganho esperado.
 -->
 
 <!--
