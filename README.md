@@ -85,6 +85,28 @@ Painel executivo que mostra **onde o tempo de entrega se perde** em uma operaç�
 
 <sub>A base pública tem aparência de dados sintéticos: os números demonstram o método, e as recomendações não foram aplicadas em uma operação real.</sub>
 
+#### 📊 [Vendas, Rentabilidade e Clientes](https://github.com/Ig0rMendes/adventureworks-sql-powerbi)
+
+Análise de ponta a ponta do AdventureWorks: modelei um **modelo estrela em SQL Server**, diagnostiquei, limpei e validei cada tabela e construí um **painel de 5 páginas no Power BI** com resumo executivo. Segmentei **17,4 mil clientes com RFM** e conferi cada medida DAX contra a consulta SQL equivalente.
+
+**Principais achados:** a receita do 1º semestre de 2022 foi **3,1×** a de 2021, a partir de um salto em jul/2021 que os dados não explicam, e **94,9%** da receita vem de Bikes (seis variações da Mountain-200 somam **28,8%**).
+
+**Recomendações:** reativar o segmento **Em Risco** (10% dos clientes, 24% da receita), reduzir a dependência de poucos produtos e territórios e entender o salto de jul/2021 antes de projetar crescimento.
+
+<p align="left">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white" />
+    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" />
+    <img alt="DAX" src="https://img.shields.io/badge/DAX-555555?style=flat-square" />
+    <img alt="RFM" src="https://img.shields.io/badge/RFM-555555?style=flat-square" />
+</p>
+
+<a href="https://youtu.be/S4QGLxKrsxc">
+    <img alt="Prévia do painel de vendas, rentabilidade e clientes" width="600" src="https://raw.githubusercontent.com/Ig0rMendes/adventureworks-sql-powerbi/main/docs/img/00_resumo_executivo.png" />
+</a>
+
+🔗 **[Assistir à demonstração](https://youtu.be/S4QGLxKrsxc)** &nbsp;·&nbsp; 📂 **[Ver o código](https://github.com/Ig0rMendes/adventureworks-sql-powerbi)**
+
+<sub>Dataset público de exemplo (AdventureWorks): os números demonstram o método, e as recomendações não foram aplicadas em uma operação real.</sub>
 <!--
 Modelo para os próximos projetos (copie, preencha e tire do comentário):
 
