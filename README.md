@@ -101,7 +101,7 @@ Análise de ponta a ponta do AdventureWorks: modelei um **modelo estrela em SQL 
 </p>
 
 <a href="https://youtu.be/S4QGLxKrsxc">
-    <img alt="Prévia do painel de vendas, rentabilidade e clientes" width="600" src="https://raw.githubusercontent.com/Ig0rMendes/adventureworks-sql-powerbi/main/docs/img/00_resumo_executivo.png" />
+    <img alt="Prévia do painel de vendas, rentabilidade e clientes" width="600" src="https://raw.githubusercontent.com/Ig0rMendes/adventureworks-sql-powerbi/main/docs/img/00_resumo_executivo.png,.png" />
 </a>
 
 🔗 **[Assistir à demonstração](https://youtu.be/S4QGLxKrsxc)** &nbsp;·&nbsp; 📂 **[Ver o código](https://github.com/Ig0rMendes/adventureworks-sql-powerbi)**
